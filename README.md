@@ -1,2 +1,2 @@
 # jobportal
-related to nokri 
+related to naukri 
